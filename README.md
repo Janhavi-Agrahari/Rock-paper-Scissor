@@ -1,3 +1,6 @@
+
+<img src="Screenshot 2024-05-06 190925.png">
+
 # Rock-paper-Scissor
 
 Enjoy a classic Rock, Paper, Scissors game online! Built with HTML, CSS, and JavaScript for interactive, responsive gameplay.
